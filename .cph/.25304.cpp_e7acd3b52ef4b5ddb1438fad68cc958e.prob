@@ -1,0 +1,1 @@
+{"name":"Local: 25304","url":"d:\\develop\\c\\25304.cpp","tests":[{"id":1705125891431,"input":"260000\n4\n20000 5\n30000 2\n10000 6\n5000 8","output":"Yes"},{"id":1705125913125,"input":"250000\n4\n20000 5\n30000 2\n10000 6\n5000 8","output":"No"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\develop\\c\\25304.cpp","group":"local","local":true}
