@@ -8,4 +8,6 @@ int main()
     cin >> A >> B;
 
     cout << A + B;
+    
+    return 0;
 }
